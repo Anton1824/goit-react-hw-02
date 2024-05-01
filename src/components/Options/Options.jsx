@@ -2,10 +2,10 @@
 const Options = () => {
   return (
     <div>
-          <button onClick={}>Good</button>
-          <button onClick={}>Neutral</button>
-          <button onClick={}>Bad</button>
-          <button onClick={}>Reset</button>
+          <button>Good</button>
+          <button>Neutral</button>
+          <button>Bad</button>
+          <button >Reset</button>
     </div>
   )
 }
